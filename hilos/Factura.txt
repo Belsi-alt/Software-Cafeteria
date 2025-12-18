@@ -1,0 +1,15 @@
+Factura de Venta
+--------------------------------------------------------
+ID Venta: 5
+Detalle Venta: 1
+Cliente: 1211-belsi
+Empleado: 1092532883-Kerly Molina Arteaga
+Fecha Venta: 01/12/2025
+
+Detalles de la Compra:
+1	Arroz con leche	2	3000.0	6000.0	
+1	pastel	2	5000.0	10000.0	
+--------------------------------------------------------
+Valor Final: 16000.0
+--------------------------------------------------------
+Gracias por su compra
